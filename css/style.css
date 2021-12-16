@@ -1,0 +1,46 @@
+<!--
+
+/* copy - for standard font colour and size. */                                        
+.copy {
+                    font-family: arial, helvetica, sans-serif;
+                    font-size: 9pt;
+                    color: #000000;
+                    }
+                    	 																		
+.nav {
+                    font-family: arial, helvetica, sans-serif;
+                    font-size: 9pt;
+                    color: #FFFFFF;
+                    font-weight: bold;
+                    position: relative;
+                    top: 3px; 
+                    text-decoration: none;                   
+                    }
+                    
+.navon {
+                    font-family: arial, helvetica, sans-serif;
+                    font-size: 9pt;
+                    color: #FF0000;
+                    font-weight: bold;
+                    position: relative;
+                    top: 3px;
+                    left: 10px; 
+                    text-decoration: none;                   
+                    }
+                    
+.product {
+                    font-family: arial, helvetica, sans-serif;
+                    font-size: 9pt;
+                    color: #FF0000;
+                    font-weight: bold;
+                    }
+                    
+.head {
+                    font-family: arial, helvetica, sans-serif;
+                    font-size: 11pt;
+                    color: #FFFFFF;
+                    font-weight: bold;
+                    position: relative;
+                    top: 5px;
+                    }                               
+-->

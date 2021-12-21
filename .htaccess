@@ -18,7 +18,7 @@ RewriteRule . - [F,L]
 # Specific redirections
 RewriteRule ^index.html$ / [L,R=301]
 RewriteCond %{QUERY_STRING} ^$
-RewriteRule ^index\.htm$ index_htm.html? [L,R=301]
+RewriteRule ^index\.htm$ index.html? [L,R=301]
 RewriteCond %{QUERY_STRING} ^catagoryFile\=Electrical_Equipment\.dat$
 RewriteRule ^cgi\-bin\/product_info\.cgi$ cgi-bin/product_info_catagoryFile_Electrical_Equipment_dat.html? [L,R=301]
 RewriteCond %{QUERY_STRING} ^catagoryFile\=Emerson_Solutions\.dat$
